@@ -1,3 +1,11 @@
+/* ==========================================================================
+Theme Name: Logzee
+Theme URI: http://mannatstudio.com
+Description:  Logzee - A Logistic Cargo HTML Template
+Version: 1.0
+Author: Mannat Studio
+Tags:   business, cargo, chain supply, company, corporate, expedition, freight, logistics, packaging, services, shipping, transport, transportation, trucking, warehousing
+========================================================================== */
 html {
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
@@ -145,7 +153,7 @@ a:focus {
 /*    Heading Style
 /*------------------------------------------*/
 .heading-main{
-    color: #0292d0;
+    color:#ff3514;
     font-size: 2.25rem;
     font-weight: 400;
     text-align: center;
@@ -373,7 +381,7 @@ h2.h2-xl { font-size: 1.5rem; }     /* 24px */
     margin-right: 25px;
 }
 .post-text a{
-    color: #0292d0;
+    color: #ff3514;
 }
 .comment-box{
     font-size: 0.75rem;
@@ -847,7 +855,7 @@ footer .social-icons a:hover{
 }
 @media (min-width: 991.99px) {
     .header-fullpage.fixed{
-        background: rgba(0, 154, 219, 0.72) !important;
+        background: rgba(6,22,58,0.8) !important;
         padding-bottom: 15px;
     }
     .header-fullpage.fixed .top-bar-right{
@@ -862,8 +870,8 @@ footer .social-icons a:hover{
     }
 }
 .header-fullpage.fixed .navbar-brand {
-    width: 140px;
-    padding: 1rem;
+    width: 90px;
+    padding: 0px;
 }
 .header-fullpage.fixed.navbar-expand-md .navbar-nav .nav-item, 
 .header-fullpage.fixed.navbar-expand-lg .navbar-nav .nav-item{
@@ -872,7 +880,7 @@ footer .social-icons a:hover{
 
 /* Header With Top Bar Transparent */
 .top-transparent nav{
-    background: #FFF !important;
+    /* background: #FFF !important; */
 }
 .top-transparent.fixed nav{
     box-shadow: 0px 6px 10px 0px rgba(255, 53, 20, 0.2);
@@ -883,8 +891,8 @@ footer .social-icons a:hover{
 }
 .top-transparent .navbar-brand {
     background: transparent !important;
-    padding: 1.5rem 0;
-    width: 130px;
+    padding: 0px 0;
+    width: 100px;
     margin: 0;
 }
 .top-transparent .top-bar-right{
@@ -901,8 +909,8 @@ footer .social-icons a:hover{
     color: #ff3514;
 }
 .top-transparent.header-fullpage.fixed .navbar-brand {
-    width: 120px;
-    padding: 1rem 0;
+    width: 90px;
+    padding: 0;
 }
 .top-transparent .navbar-nav .nav-link {
     color: #888888;
@@ -968,7 +976,7 @@ footer .social-icons a:hover{
     text-decoration: none;
 }
 .top-bar-right .social-icons a:hover{
-    color: #17abf3;
+    color: #ff3514;
 }
 .lang-toggle{
     padding-bottom: 10px;
@@ -1029,7 +1037,7 @@ footer .social-icons a:hover{
     background-repeat: no-repeat;
     padding: 7rem 0;
     background-position: center center !important;
-    margin-top: 136px;
+    margin-top: 100px;
 }
 .breadcrumbs-page .breadcrumb{
     background: transparent;

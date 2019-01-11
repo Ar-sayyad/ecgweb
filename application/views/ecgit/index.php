@@ -7,7 +7,7 @@
  <?php //include "includes/pageloader.php"; ?> 
   <!-- Page loader End -->
 
- <?php include "includes/header.php"; ?>
+ <?php include "includes/home-header.php"; ?>
 
   <!-- Fullscreen Slider Start -->
   <?php include "includes/slider.php"; ?>
@@ -45,7 +45,7 @@
               <div class="col pl-0">
                 <h5 class="mb-3 h5-xs fw-6">CALL US ANYTIME</h5>
                 <div class="text">
-                  +91 (0) 101 0000 000 <br>
+                  +88 (0) 101 0000 000 <br>
                   +88 (0) 202 0000 001
                 </div>
               </div>
@@ -66,8 +66,8 @@
               <div class="col pl-0">
                 <h5 class="mb-3 h5-xs fw-6">EMAIL US</h5>
                 <div class="text">
-                  <a href="#" class="link-light">limesh@ecgit.com</a><br>
-                  <a href="#" class="link-light">support@ecgit.com</a>
+                  <a href="#" class="link-light">mail@logzee.com</a><br>
+                  <a href="#" class="link-light">support@logzee.com</a>
                 </div>
               </div>
             </div>
@@ -103,7 +103,8 @@
           <!-- Heading Main -->
           <div class="col-sm-12 wow fadeInDown" data-wow-duration="0" data-wow-delay="0s">
             <h1 class="heading-main">
-             WELCOME TO ECGiT
+              <span>WELCOME TO</span>
+             LogZee
             </h1>
           </div>
           <!-- Heading Main -->

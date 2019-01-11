@@ -11,7 +11,7 @@
 /* ------------------------------------------------------------------------ */
 
 @media (min-width: 1200px) {	
-	.navbar-brand { background: #f1fbff; width: 180px; padding: 1.5rem 1.5rem; }
+	.navbar-brand {background: rgba(0, 0, 0, 0.04);width: 125px;padding: 0px;}
 }
 
 /* ------------------------------------------------------------------------ */

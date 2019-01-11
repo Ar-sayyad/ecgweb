@@ -15,6 +15,10 @@
 
   <!-- JQuery Map Plugin -->
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-  <script type="text/javascript" src="<?php echo base_url();?>Theme/js/jquery.gmap.min.js"></script>    
+  <script type="text/javascript" src="<?php echo base_url();?>Theme/js/jquery.gmap.min.js"></script> 
+  
+  <script type="text/javascript" src="<?php echo base_url();?>Theme/js/jquery.cubeportfolio.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url();?>Theme/js/masonary-custom.js"></script>
+
   
    <script src="<?php echo base_url();?>Theme/js/site-custom.js"></script>   

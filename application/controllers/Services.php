@@ -1,8 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Home extends CI_Controller {
-      public function __construct() {
+class Services extends CI_Controller {
+    public function __construct() {
         parent::__construct();
         $this->load->database();        	
         $this->load->library('session');
@@ -14,9 +14,11 @@ class Home extends CI_Controller {
         $this->output->set_header('Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0');
         $this->output->set_header('Pragma: no-cache');
     }
+
 	public function index()
 	{
-                    //$this->jsw_model->is_logged_in();      
-		$this->load->view('ecgit/index');
+                 $data['title'] = "Services";
+                 $data['desc'] = "Our global network and full-service team of airfreight and expedited freight professionals are ready to help.";
+                $this->load->view('ecgit/services',$data);
 	}
 }

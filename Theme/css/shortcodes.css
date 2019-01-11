@@ -78,8 +78,8 @@
 /*------------------------------------------*/
 .bg-white{ background: #FFF; }
 .bg-light-gray{ background: #fafafa; }
-.bg-navy-blue{background: #06163a;}
-.bg-orange{background: #47b6e5;}
+.bg-navy-blue{ background: #06163a; }
+.bg-orange{ background: #ff3514; }
 .bg-sky-blue{ background: #f1fbff; }
 
 
@@ -818,18 +818,18 @@
 /* Box Style Two */
 .service-icon{
       border-radius: 50%;
-      margin-right: 20px;
-      background-color: rgb(255, 255, 255);
-      box-shadow: 0px 6px 10px 0px rgba(69, 180, 227, 0.33);
-      width: 65px;
-      height: 65px;
-      z-index: 101;
-      text-align: center;
-      font-size: 24px;
-      color: rgb(183, 183, 183);
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 6px 10px 0px rgba(255, 53, 20, 0.2);
+    width: 65px;
+    height: 65px;
+    z-index: 101;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(183, 183, 183);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .service-inner-content{
@@ -1222,7 +1222,7 @@
 }
 .counter-style-1 span {
 	font-size: 2.25rem;
-	color: #0bb2f9;
+	color: #ff3514;
 	font-weight: 700;
 }
 
@@ -1827,7 +1827,7 @@
     transition: opacity .2s ease-out,visibility .2s ease-out,color .2s ease-out, background-color .2s ease-out, right .1s ease-out;
 }
 #mkdf-back-to-top:hover{
-  background-color: #04adf5;
+  background-color: #ff3514;
 }
 #mkdf-back-to-top.on {
     opacity: 1;
