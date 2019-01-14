@@ -12,7 +12,7 @@
         <!-- Topbar Request Quote Start -->
         <div class="d-inline-flex request-btn order-lg-last col p-0"> 
           <a class="nav-link mr-2 ml-auto" href="#" id="search_home"><i class="icofont-search"></i></a>
-          <a class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button" data-toggle="modal" data-target="#request_popup"><i class="icofont-page"></i> <span class="d-none d-sm-inline-block"> Request Quote</span></a> 
+          <!--<a class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button" data-toggle="modal" data-target="#request_popup"><i class="icofont-page"></i> <span class="d-none d-sm-inline-block"> Request Quote</span></a>--> 
           <!-- Toggle Button Start -->
           <button class="navbar-toggler x collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>

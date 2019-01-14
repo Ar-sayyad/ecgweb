@@ -8,7 +8,7 @@
       
       <!-- xxx Change With Your Information xxx -->    
       <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" />
-      <title>ECGIT</title>
+      <title>WEBSITE</title>
       <meta name="author" content="Ecgit Development">     
       <meta name="description" content="Logzee is a Responsive HTML5 Template for Logistic and Cargo related services.">
       <meta name="keywords" content="Logzee, responsive, html5, business, cargo, chain supply, company, corporate, expedition, freight, logistics, packaging, services, shipping, transport, transportation, trucking, warehousing">

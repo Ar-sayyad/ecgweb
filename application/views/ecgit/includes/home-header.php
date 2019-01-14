@@ -41,9 +41,9 @@
               <!-- Topbar Social Icons End -->
 
               <!-- Topbar Request Quote Start -->
-              <div class="top-bar-btn d-inline-flex request-btn"> 
+<!--              <div class="top-bar-btn d-inline-flex request-btn"> 
                 <a class="btn-theme icon-left bg-sky-blue light" href="#" role="button" data-toggle="modal" data-target="#request_popup"><i class="icofont-page"></i> Request Quote</a> 
-              </div>
+              </div>-->
               <!-- Topbar Request Quote End -->
           </div>
           <div class="collapse navbar-collapse" id="navbarCollapse" data-hover="dropdown" data-animations="slideInUp slideInUp slideInUp slideInUp">

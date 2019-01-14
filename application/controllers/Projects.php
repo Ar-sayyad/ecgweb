@@ -62,4 +62,9 @@ class Projects extends CI_Controller {
                  $data['desc'] = "Molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.";
                  $this->load->view('ecgit/pricingplan',$data);
             }
+            public function servicedetails(){
+                 $data['title'] = "Service Details";
+                 $data['desc'] = "Molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.";
+                 $this->load->view('ecgit/servicedetails',$data);
+            }
 }
